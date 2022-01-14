@@ -1,0 +1,239 @@
+[07-Oct-2021 10:44:30 Africa/Lagos] PHP Notice:  Undefined index: data in /home/chidecom/public_html/account/payload/verify_deposit.php on line 28
+[16-Oct-2021 11:31:35 Africa/Lagos] PHP Notice:  Undefined variable: order_num in /home/chidecom/public_html/account/payload/share_sub.php on line 5
+[16-Oct-2021 11:31:35 Africa/Lagos] PHP Notice:  Undefined index: data in /home/chidecom/public_html/account/payload/share_sub.php on line 13
+[16-Oct-2021 11:32:00 Africa/Lagos] PHP Notice:  Undefined variable: order_num in /home/chidecom/public_html/account/payload/share_sub.php on line 5
+[16-Oct-2021 11:32:00 Africa/Lagos] PHP Notice:  Undefined index: data in /home/chidecom/public_html/account/payload/share_sub.php on line 13
+[16-Oct-2021 12:56:39 Africa/Lagos] PHP Notice:  Undefined variable: acctno in /home/chidecom/public_html/private/functions.php on line 4
+[16-Oct-2021 12:59:28 Africa/Lagos] PHP Notice:  Undefined variable: acctno in /home/chidecom/public_html/private/functions.php on line 4
+[16-Oct-2021 14:01:25 Africa/Lagos] PHP Warning:  require(monnify_payment.php): failed to open stream: No such file or directory in /home/chidecom/public_html/private/functions.php on line 3
+[16-Oct-2021 14:01:25 Africa/Lagos] PHP Fatal error:  require(): Failed opening required 'monnify_payment.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/chidecom/public_html/private/functions.php on line 3
+[16-Oct-2021 14:03:51 Africa/Lagos] PHP Warning:  require(monnify_payment.php): failed to open stream: No such file or directory in /home/chidecom/public_html/private/functions.php on line 3
+[16-Oct-2021 14:03:51 Africa/Lagos] PHP Fatal error:  require(): Failed opening required 'monnify_payment.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/chidecom/public_html/private/functions.php on line 3
+[16-Oct-2021 14:06:28 Africa/Lagos] PHP Warning:  require(monnify_payment.php): failed to open stream: No such file or directory in /home/chidecom/public_html/private/functions.php on line 3
+[16-Oct-2021 14:06:28 Africa/Lagos] PHP Fatal error:  require(): Failed opening required 'monnify_payment.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/chidecom/public_html/private/functions.php on line 3
+[16-Oct-2021 14:15:05 Africa/Lagos] PHP Warning:  require(monnify_payment.php): failed to open stream: No such file or directory in /home/chidecom/public_html/private/functions.php on line 3
+[16-Oct-2021 14:15:05 Africa/Lagos] PHP Fatal error:  require(): Failed opening required 'monnify_payment.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/chidecom/public_html/private/functions.php on line 3
+[16-Oct-2021 14:19:42 Africa/Lagos] PHP Warning:  require(monnify_payment.php): failed to open stream: No such file or directory in /home/chidecom/public_html/private/functions.php on line 3
+[16-Oct-2021 14:19:42 Africa/Lagos] PHP Fatal error:  require(): Failed opening required 'monnify_payment.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/chidecom/public_html/private/functions.php on line 3
+[16-Oct-2021 14:29:46 Africa/Lagos] PHP Warning:  require(monnify_payment.php): failed to open stream: No such file or directory in /home/chidecom/public_html/private/functions.php on line 3
+[16-Oct-2021 14:29:46 Africa/Lagos] PHP Fatal error:  require(): Failed opening required 'monnify_payment.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/chidecom/public_html/private/functions.php on line 3
+[16-Oct-2021 14:32:33 Africa/Lagos] PHP Warning:  require(monnify_payment.php): failed to open stream: No such file or directory in /home/chidecom/public_html/private/functions.php on line 3
+[16-Oct-2021 14:32:33 Africa/Lagos] PHP Fatal error:  require(): Failed opening required 'monnify_payment.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/chidecom/public_html/private/functions.php on line 3
+[16-Oct-2021 14:43:45 Africa/Lagos] PHP Warning:  require(monnify_payment.php): failed to open stream: No such file or directory in /home/chidecom/public_html/private/functions.php on line 3
+[16-Oct-2021 14:43:45 Africa/Lagos] PHP Fatal error:  require(): Failed opening required 'monnify_payment.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/chidecom/public_html/private/functions.php on line 3
+[16-Oct-2021 15:04:51 Africa/Lagos] PHP Warning:  require(monnify_payment.php): failed to open stream: No such file or directory in /home/chidecom/public_html/private/functions.php on line 3
+[16-Oct-2021 15:04:51 Africa/Lagos] PHP Fatal error:  require(): Failed opening required 'monnify_payment.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/chidecom/public_html/private/functions.php on line 3
+[16-Oct-2021 15:05:25 Africa/Lagos] PHP Warning:  require(monnify_payment.php): failed to open stream: No such file or directory in /home/chidecom/public_html/private/functions.php on line 3
+[16-Oct-2021 15:05:25 Africa/Lagos] PHP Fatal error:  require(): Failed opening required 'monnify_payment.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/chidecom/public_html/private/functions.php on line 3
+[16-Oct-2021 15:07:06 Africa/Lagos] PHP Warning:  require(monnify_payment.php): failed to open stream: No such file or directory in /home/chidecom/public_html/private/functions.php on line 3
+[16-Oct-2021 15:07:06 Africa/Lagos] PHP Fatal error:  require(): Failed opening required 'monnify_payment.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/chidecom/public_html/private/functions.php on line 3
+[16-Oct-2021 15:30:29 Africa/Lagos] PHP Warning:  require(monnify_payment.php): failed to open stream: No such file or directory in /home/chidecom/public_html/private/functions.php on line 3
+[16-Oct-2021 15:30:29 Africa/Lagos] PHP Fatal error:  require(): Failed opening required 'monnify_payment.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/chidecom/public_html/private/functions.php on line 3
+[16-Oct-2021 15:37:09 Africa/Lagos] PHP Warning:  require(monnify_payment.php): failed to open stream: No such file or directory in /home/chidecom/public_html/private/functions.php on line 3
+[16-Oct-2021 15:37:09 Africa/Lagos] PHP Fatal error:  require(): Failed opening required 'monnify_payment.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/chidecom/public_html/private/functions.php on line 3
+[16-Oct-2021 15:39:34 Africa/Lagos] PHP Warning:  require(monnify_payment.php): failed to open stream: No such file or directory in /home/chidecom/public_html/private/functions.php on line 3
+[16-Oct-2021 15:39:34 Africa/Lagos] PHP Fatal error:  require(): Failed opening required 'monnify_payment.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/chidecom/public_html/private/functions.php on line 3
+[16-Oct-2021 15:45:10 Africa/Lagos] PHP Warning:  require(monnify_payment.php): failed to open stream: No such file or directory in /home/chidecom/public_html/private/functions.php on line 3
+[16-Oct-2021 15:45:10 Africa/Lagos] PHP Fatal error:  require(): Failed opening required 'monnify_payment.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/chidecom/public_html/private/functions.php on line 3
+[16-Oct-2021 16:40:11 Africa/Lagos] PHP Warning:  require(monnify_payment.php): failed to open stream: No such file or directory in /home/chidecom/public_html/private/functions.php on line 3
+[16-Oct-2021 16:40:11 Africa/Lagos] PHP Fatal error:  require(): Failed opening required 'monnify_payment.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/chidecom/public_html/private/functions.php on line 3
+[16-Oct-2021 16:42:10 Africa/Lagos] PHP Warning:  require(monnify_payment.php): failed to open stream: No such file or directory in /home/chidecom/public_html/private/functions.php on line 3
+[16-Oct-2021 16:42:10 Africa/Lagos] PHP Fatal error:  require(): Failed opening required 'monnify_payment.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/chidecom/public_html/private/functions.php on line 3
+[16-Oct-2021 16:43:16 Africa/Lagos] PHP Warning:  require(monnify_payment.php): failed to open stream: No such file or directory in /home/chidecom/public_html/private/functions.php on line 3
+[16-Oct-2021 16:43:16 Africa/Lagos] PHP Fatal error:  require(): Failed opening required 'monnify_payment.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/chidecom/public_html/private/functions.php on line 3
+[16-Oct-2021 16:43:34 Africa/Lagos] PHP Warning:  require(monnify_payment.php): failed to open stream: No such file or directory in /home/chidecom/public_html/private/functions.php on line 3
+[16-Oct-2021 16:43:34 Africa/Lagos] PHP Fatal error:  require(): Failed opening required 'monnify_payment.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/chidecom/public_html/private/functions.php on line 3
+[16-Oct-2021 16:47:06 Africa/Lagos] PHP Warning:  require(monnify_payment.php): failed to open stream: No such file or directory in /home/chidecom/public_html/private/functions.php on line 3
+[16-Oct-2021 16:47:06 Africa/Lagos] PHP Fatal error:  require(): Failed opening required 'monnify_payment.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/chidecom/public_html/private/functions.php on line 3
+[16-Oct-2021 16:49:27 Africa/Lagos] PHP Warning:  require(monnify_payment.php): failed to open stream: No such file or directory in /home/chidecom/public_html/private/functions.php on line 3
+[16-Oct-2021 16:49:27 Africa/Lagos] PHP Fatal error:  require(): Failed opening required 'monnify_payment.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/chidecom/public_html/private/functions.php on line 3
+[16-Oct-2021 16:56:52 Africa/Lagos] PHP Warning:  require(monnify_payment.php): failed to open stream: No such file or directory in /home/chidecom/public_html/private/functions.php on line 3
+[16-Oct-2021 16:56:52 Africa/Lagos] PHP Fatal error:  require(): Failed opening required 'monnify_payment.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/chidecom/public_html/private/functions.php on line 3
+[16-Oct-2021 17:18:39 Africa/Lagos] PHP Warning:  require(monnify_payment.php): failed to open stream: No such file or directory in /home/chidecom/public_html/private/functions.php on line 3
+[16-Oct-2021 17:18:39 Africa/Lagos] PHP Fatal error:  require(): Failed opening required 'monnify_payment.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/chidecom/public_html/private/functions.php on line 3
+[16-Oct-2021 17:41:01 Africa/Lagos] PHP Warning:  require(monnify_payment.php): failed to open stream: No such file or directory in /home/chidecom/public_html/private/functions.php on line 3
+[16-Oct-2021 17:41:01 Africa/Lagos] PHP Fatal error:  require(): Failed opening required 'monnify_payment.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/chidecom/public_html/private/functions.php on line 3
+[16-Oct-2021 18:46:56 Africa/Lagos] PHP Warning:  require(monnify_payment.php): failed to open stream: No such file or directory in /home/chidecom/public_html/private/functions.php on line 3
+[16-Oct-2021 18:46:56 Africa/Lagos] PHP Fatal error:  require(): Failed opening required 'monnify_payment.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/chidecom/public_html/private/functions.php on line 3
+[16-Oct-2021 19:16:49 Africa/Lagos] PHP Warning:  require(monnify_payment.php): failed to open stream: No such file or directory in /home/chidecom/public_html/private/functions.php on line 3
+[16-Oct-2021 19:16:49 Africa/Lagos] PHP Fatal error:  require(): Failed opening required 'monnify_payment.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/chidecom/public_html/private/functions.php on line 3
+[16-Oct-2021 19:35:01 Africa/Lagos] PHP Warning:  require(monnify_payment.php): failed to open stream: No such file or directory in /home/chidecom/public_html/private/functions.php on line 3
+[16-Oct-2021 19:35:01 Africa/Lagos] PHP Fatal error:  require(): Failed opening required 'monnify_payment.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/chidecom/public_html/private/functions.php on line 3
+[16-Oct-2021 19:41:20 Africa/Lagos] PHP Warning:  require(monnify_payment.php): failed to open stream: No such file or directory in /home/chidecom/public_html/private/functions.php on line 3
+[16-Oct-2021 19:41:20 Africa/Lagos] PHP Fatal error:  require(): Failed opening required 'monnify_payment.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/chidecom/public_html/private/functions.php on line 3
+[16-Oct-2021 19:54:22 Africa/Lagos] PHP Warning:  require(monnify_payment.php): failed to open stream: No such file or directory in /home/chidecom/public_html/private/functions.php on line 3
+[16-Oct-2021 19:54:22 Africa/Lagos] PHP Fatal error:  require(): Failed opening required 'monnify_payment.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/chidecom/public_html/private/functions.php on line 3
+[23-Oct-2021 16:38:30 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to undefined function cleaner() in /home/chidecom/public_html/account/payload/activate_agent.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/chidecom/public_html/account/payload/activate_agent.php on line 12
+[23-Oct-2021 17:05:29 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to undefined function cleaner() in /home/chidecom/public_html/account/payload/activate_agent.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/chidecom/public_html/account/payload/activate_agent.php on line 12
+[23-Oct-2021 17:05:36 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to undefined function cleaner() in /home/chidecom/public_html/account/payload/activate_agent.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/chidecom/public_html/account/payload/activate_agent.php on line 12
+[25-Oct-2021 08:36:42 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to undefined function cleaner() in /home/chidecom/public_html/account/payload/activate_agent.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/chidecom/public_html/account/payload/activate_agent.php on line 12
+[27-Oct-2021 17:56:03 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to undefined function cleaner() in /home/chidecom/public_html/account/payload/activate_agent.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/chidecom/public_html/account/payload/activate_agent.php on line 12
+[28-Oct-2021 05:18:26 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to undefined function cleaner() in /home/chidecom/public_html/account/payload/activate_agent.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/chidecom/public_html/account/payload/activate_agent.php on line 12
+[28-Oct-2021 05:27:47 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to undefined function cleaner() in /home/chidecom/public_html/account/payload/activate_agent.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/chidecom/public_html/account/payload/activate_agent.php on line 12
+[28-Oct-2021 05:40:39 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to undefined function cleaner() in /home/chidecom/public_html/account/payload/activate_agent.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/chidecom/public_html/account/payload/activate_agent.php on line 12
+[29-Oct-2021 10:55:36 Africa/Lagos] PHP Notice:  Undefined variable: treat_amount in /home/chidecom/public_html/account/payload/vtu_vtpass.php on line 68
+[29-Oct-2021 13:00:52 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to undefined function cleaner() in /home/chidecom/public_html/account/payload/activate_agent.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/chidecom/public_html/account/payload/activate_agent.php on line 12
+[02-Nov-2021 15:51:20 Africa/Lagos] PHP Notice:  Undefined variable: plan_id in /home/chidecom/public_html/account/payload/buy_gift2.php on line 68
+[02-Nov-2021 15:51:48 Africa/Lagos] PHP Notice:  Undefined variable: plan_id in /home/chidecom/public_html/account/payload/buy_gift2.php on line 68
+[04-Nov-2021 09:08:17 Africa/Lagos] PHP Notice:  Undefined index: csrftoken in /home/chidecom/public_html/account/payload/education.php on line 9
+[04-Nov-2021 09:08:17 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to undefined function Logout() in /home/chidecom/public_html/account/payload/education.php:73
+Stack trace:
+#0 {main}
+  thrown in /home/chidecom/public_html/account/payload/education.php on line 73
+[04-Nov-2021 09:21:42 Africa/Lagos] PHP Notice:  Undefined index: csrftoken in /home/chidecom/public_html/account/payload/education.php on line 9
+[04-Nov-2021 09:21:42 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to undefined function Logout() in /home/chidecom/public_html/account/payload/education.php:73
+Stack trace:
+#0 {main}
+  thrown in /home/chidecom/public_html/account/payload/education.php on line 73
+[04-Nov-2021 09:57:33 Africa/Lagos] PHP Notice:  Undefined index: csrftoken in /home/chidecom/public_html/account/payload/education.php on line 9
+[04-Nov-2021 09:57:33 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to undefined function Logout() in /home/chidecom/public_html/account/payload/education.php:73
+Stack trace:
+#0 {main}
+  thrown in /home/chidecom/public_html/account/payload/education.php on line 73
+[04-Nov-2021 10:23:55 Africa/Lagos] PHP Notice:  Undefined index: csrftoken in /home/chidecom/public_html/account/payload/education.php on line 9
+[04-Nov-2021 10:23:55 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to undefined function Logout() in /home/chidecom/public_html/account/payload/education.php:73
+Stack trace:
+#0 {main}
+  thrown in /home/chidecom/public_html/account/payload/education.php on line 73
+[05-Nov-2021 08:13:29 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to undefined function cleaner() in /home/chidecom/public_html/account/payload/activate_agent.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/chidecom/public_html/account/payload/activate_agent.php on line 12
+[07-Nov-2021 17:08:39 Africa/Lagos] PHP Notice:  Undefined variable: treat_amount in /home/chidecom/public_html/account/payload/vtu_vtpass.php on line 68
+[11-Nov-2021 18:38:49 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to undefined function Logout() in /home/chidecom/public_html/account/payload/datapayment.php:79
+Stack trace:
+#0 {main}
+  thrown in /home/chidecom/public_html/account/payload/datapayment.php on line 79
+[12-Nov-2021 18:06:08 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to undefined function cleaner() in /home/chidecom/public_html/account/payload/activate_agent.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/chidecom/public_html/account/payload/activate_agent.php on line 12
+[12-Nov-2021 18:16:20 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to undefined function cleaner() in /home/chidecom/public_html/account/payload/activate_agent.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/chidecom/public_html/account/payload/activate_agent.php on line 12
+[12-Nov-2021 18:40:13 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to undefined function cleaner() in /home/chidecom/public_html/account/payload/activate_agent.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/chidecom/public_html/account/payload/activate_agent.php on line 12
+[12-Nov-2021 20:09:26 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to undefined function cleaner() in /home/chidecom/public_html/account/payload/activate_agent.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/chidecom/public_html/account/payload/activate_agent.php on line 12
+[15-Nov-2021 18:11:13 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to undefined function cleaner() in /home/chidecom/public_html/account/payload/activate_agent.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/chidecom/public_html/account/payload/activate_agent.php on line 12
+[17-Nov-2021 19:31:01 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to undefined function Logout() in /home/chidecom/public_html/account/payload/meterpayment.php:73
+Stack trace:
+#0 {main}
+  thrown in /home/chidecom/public_html/account/payload/meterpayment.php on line 73
+[20-Nov-2021 00:00:10 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to undefined function cleaner() in /home/chidecom/public_html/account/payload/activate_agent.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/chidecom/public_html/account/payload/activate_agent.php on line 12
+[20-Nov-2021 00:05:40 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to undefined function cleaner() in /home/chidecom/public_html/account/payload/activate_agent.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/chidecom/public_html/account/payload/activate_agent.php on line 12
+[23-Nov-2021 17:47:01 Africa/Lagos] PHP Notice:  Undefined index: csrftoken in /home/chidecom/public_html/account/payload/education.php on line 9
+[23-Nov-2021 17:47:01 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to undefined function Logout() in /home/chidecom/public_html/account/payload/education.php:73
+Stack trace:
+#0 {main}
+  thrown in /home/chidecom/public_html/account/payload/education.php on line 73
+[23-Nov-2021 19:35:26 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to undefined function cleaner() in /home/chidecom/public_html/account/payload/activate_agent.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/chidecom/public_html/account/payload/activate_agent.php on line 12
+[24-Nov-2021 07:47:24 Africa/Lagos] PHP Notice:  Undefined index: csrftoken in /home/chidecom/public_html/account/payload/education.php on line 9
+[24-Nov-2021 07:47:24 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to undefined function Logout() in /home/chidecom/public_html/account/payload/education.php:73
+Stack trace:
+#0 {main}
+  thrown in /home/chidecom/public_html/account/payload/education.php on line 73
+[24-Nov-2021 11:23:08 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to undefined function cleaner() in /home/chidecom/public_html/account/payload/activate_agent.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/chidecom/public_html/account/payload/activate_agent.php on line 12
+[24-Nov-2021 21:03:03 Africa/Lagos] PHP Notice:  Undefined variable: order_num in /home/chidecom/public_html/account/payload/share_sub.php on line 5
+[24-Nov-2021 21:03:03 Africa/Lagos] PHP Notice:  Undefined index: data in /home/chidecom/public_html/account/payload/share_sub.php on line 13
+[26-Nov-2021 10:32:29 Africa/Lagos] PHP Notice:  Undefined variable: treat_amount in /home/chidecom/public_html/account/payload/vtu_vtpass.php on line 68
+[26-Nov-2021 10:33:05 Africa/Lagos] PHP Notice:  Undefined variable: treat_amount in /home/chidecom/public_html/account/payload/vtu_vtpass.php on line 68
+[26-Nov-2021 10:34:14 Africa/Lagos] PHP Notice:  Undefined variable: treat_amount in /home/chidecom/public_html/account/payload/vtu_vtpass.php on line 68
+[29-Nov-2021 05:46:40 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to undefined function cleaner() in /home/chidecom/public_html/account/payload/activate_agent.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/chidecom/public_html/account/payload/activate_agent.php on line 12
+[29-Nov-2021 08:27:45 Africa/Lagos] PHP Notice:  Undefined variable: treat_amount in /home/chidecom/public_html/account/payload/vtu_vtpass.php on line 68
+[29-Nov-2021 08:28:02 Africa/Lagos] PHP Notice:  Undefined variable: treat_amount in /home/chidecom/public_html/account/payload/vtu_vtpass.php on line 68
+[29-Nov-2021 08:32:58 Africa/Lagos] PHP Notice:  Undefined variable: treat_amount in /home/chidecom/public_html/account/payload/vtu_vtpass.php on line 68
+[05-Dec-2021 14:56:11 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to undefined function cleaner() in /home/chidecom/public_html/account/payload/activate_agent.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/chidecom/public_html/account/payload/activate_agent.php on line 12
+[05-Dec-2021 15:32:25 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to undefined function cleaner() in /home/chidecom/public_html/account/payload/activate_agent.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/chidecom/public_html/account/payload/activate_agent.php on line 12
+[13-Dec-2021 14:50:55 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to undefined function cleaner() in /home/chidecom/public_html/account/payload/activate_agent.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/chidecom/public_html/account/payload/activate_agent.php on line 12
+[14-Dec-2021 18:41:30 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to undefined function Logout() in /home/chidecom/public_html/account/payload/datapayment.php:79
+Stack trace:
+#0 {main}
+  thrown in /home/chidecom/public_html/account/payload/datapayment.php on line 79
+[20-Dec-2021 18:36:41 Africa/Lagos] PHP Notice:  Undefined variable: treat_amount in /home/chidecom/public_html/account/payload/vtu_vtpass.php on line 68
+[20-Dec-2021 18:57:53 Africa/Lagos] PHP Notice:  Undefined variable: treat_amount in /home/chidecom/public_html/account/payload/vtu_vtpass.php on line 68
+[22-Dec-2021 06:27:04 Africa/Lagos] PHP Notice:  Undefined index: csrftoken in /home/chidecom/public_html/account/payload/education.php on line 9
+[22-Dec-2021 06:27:04 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to undefined function Logout() in /home/chidecom/public_html/account/payload/education.php:73
+Stack trace:
+#0 {main}
+  thrown in /home/chidecom/public_html/account/payload/education.php on line 73
+[22-Dec-2021 22:30:03 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to undefined function Logout() in /home/chidecom/public_html/account/payload/datapayment.php:79
+Stack trace:
+#0 {main}
+  thrown in /home/chidecom/public_html/account/payload/datapayment.php on line 79
+[25-Dec-2021 23:53:35 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to undefined function cleaner() in /home/chidecom/public_html/account/payload/activate_agent.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/chidecom/public_html/account/payload/activate_agent.php on line 12
+[26-Dec-2021 07:59:51 Africa/Lagos] PHP Notice:  Undefined index: csrftoken in /home/chidecom/public_html/account/payload/education.php on line 9
+[26-Dec-2021 07:59:51 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to undefined function Logout() in /home/chidecom/public_html/account/payload/education.php:73
+Stack trace:
+#0 {main}
+  thrown in /home/chidecom/public_html/account/payload/education.php on line 73
+[27-Dec-2021 17:08:33 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to undefined function Logout() in /home/chidecom/public_html/account/payload/datapayment.php:79
+Stack trace:
+#0 {main}
+  thrown in /home/chidecom/public_html/account/payload/datapayment.php on line 79
+[30-Dec-2021 00:39:44 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to undefined function cleaner() in /home/chidecom/public_html/account/payload/activate_agent.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/chidecom/public_html/account/payload/activate_agent.php on line 12

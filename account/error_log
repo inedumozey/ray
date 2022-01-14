@@ -1,0 +1,343 @@
+[05-Nov-2021 07:52:52 Africa/Lagos] PHP Notice:  Undefined index: status in /home/chidecom/public_html/account/verify_payment.php on line 12
+[05-Nov-2021 07:52:52 Africa/Lagos] PHP Notice:  Undefined index: transaction_id in /home/chidecom/public_html/account/verify_payment.php on line 13
+[05-Nov-2021 07:52:52 Africa/Lagos] PHP Notice:  Undefined index: tx_ref in /home/chidecom/public_html/account/verify_payment.php on line 14
+[05-Nov-2021 08:11:22 Africa/Lagos] PHP Notice:  Undefined property: stdClass::$responseBody in /home/chidecom/public_html/account/monnify_payment.php on line 182
+[05-Nov-2021 08:11:22 Africa/Lagos] PHP Notice:  Trying to get property 'accountReference' of non-object in /home/chidecom/public_html/account/monnify_payment.php on line 182
+[05-Nov-2021 08:11:22 Africa/Lagos] PHP Notice:  Undefined property: stdClass::$responseBody in /home/chidecom/public_html/account/monnify_payment.php on line 183
+[05-Nov-2021 08:11:22 Africa/Lagos] PHP Notice:  Trying to get property 'reservationReference' of non-object in /home/chidecom/public_html/account/monnify_payment.php on line 183
+[05-Nov-2021 08:11:22 Africa/Lagos] PHP Notice:  Undefined property: stdClass::$responseBody in /home/chidecom/public_html/account/monnify_payment.php on line 186
+[05-Nov-2021 08:11:22 Africa/Lagos] PHP Notice:  Trying to get property 'accounts' of non-object in /home/chidecom/public_html/account/monnify_payment.php on line 186
+[05-Nov-2021 08:11:22 Africa/Lagos] PHP Warning:  Invalid argument supplied for foreach() in /home/chidecom/public_html/account/monnify_payment.php on line 186
+[05-Nov-2021 08:12:55 Africa/Lagos] PHP Notice:  Undefined property: stdClass::$responseBody in /home/chidecom/public_html/account/monnify_payment.php on line 182
+[05-Nov-2021 08:12:55 Africa/Lagos] PHP Notice:  Trying to get property 'accountReference' of non-object in /home/chidecom/public_html/account/monnify_payment.php on line 182
+[05-Nov-2021 08:12:55 Africa/Lagos] PHP Notice:  Undefined property: stdClass::$responseBody in /home/chidecom/public_html/account/monnify_payment.php on line 183
+[05-Nov-2021 08:12:55 Africa/Lagos] PHP Notice:  Trying to get property 'reservationReference' of non-object in /home/chidecom/public_html/account/monnify_payment.php on line 183
+[05-Nov-2021 08:12:55 Africa/Lagos] PHP Notice:  Undefined property: stdClass::$responseBody in /home/chidecom/public_html/account/monnify_payment.php on line 186
+[05-Nov-2021 08:12:55 Africa/Lagos] PHP Notice:  Trying to get property 'accounts' of non-object in /home/chidecom/public_html/account/monnify_payment.php on line 186
+[05-Nov-2021 08:12:55 Africa/Lagos] PHP Warning:  Invalid argument supplied for foreach() in /home/chidecom/public_html/account/monnify_payment.php on line 186
+[05-Nov-2021 08:13:21 Africa/Lagos] PHP Notice:  Undefined property: stdClass::$responseBody in /home/chidecom/public_html/account/monnify_payment.php on line 182
+[05-Nov-2021 08:13:21 Africa/Lagos] PHP Notice:  Trying to get property 'accountReference' of non-object in /home/chidecom/public_html/account/monnify_payment.php on line 182
+[05-Nov-2021 08:13:21 Africa/Lagos] PHP Notice:  Undefined property: stdClass::$responseBody in /home/chidecom/public_html/account/monnify_payment.php on line 183
+[05-Nov-2021 08:13:21 Africa/Lagos] PHP Notice:  Trying to get property 'reservationReference' of non-object in /home/chidecom/public_html/account/monnify_payment.php on line 183
+[05-Nov-2021 08:13:21 Africa/Lagos] PHP Notice:  Undefined property: stdClass::$responseBody in /home/chidecom/public_html/account/monnify_payment.php on line 186
+[05-Nov-2021 08:13:21 Africa/Lagos] PHP Notice:  Trying to get property 'accounts' of non-object in /home/chidecom/public_html/account/monnify_payment.php on line 186
+[05-Nov-2021 08:13:21 Africa/Lagos] PHP Warning:  Invalid argument supplied for foreach() in /home/chidecom/public_html/account/monnify_payment.php on line 186
+[05-Nov-2021 08:14:07 Africa/Lagos] PHP Notice:  Undefined property: stdClass::$responseBody in /home/chidecom/public_html/account/monnify_payment.php on line 182
+[05-Nov-2021 08:14:07 Africa/Lagos] PHP Notice:  Trying to get property 'accountReference' of non-object in /home/chidecom/public_html/account/monnify_payment.php on line 182
+[05-Nov-2021 08:14:07 Africa/Lagos] PHP Notice:  Undefined property: stdClass::$responseBody in /home/chidecom/public_html/account/monnify_payment.php on line 183
+[05-Nov-2021 08:14:07 Africa/Lagos] PHP Notice:  Trying to get property 'reservationReference' of non-object in /home/chidecom/public_html/account/monnify_payment.php on line 183
+[05-Nov-2021 08:14:07 Africa/Lagos] PHP Notice:  Undefined property: stdClass::$responseBody in /home/chidecom/public_html/account/monnify_payment.php on line 186
+[05-Nov-2021 08:14:07 Africa/Lagos] PHP Notice:  Trying to get property 'accounts' of non-object in /home/chidecom/public_html/account/monnify_payment.php on line 186
+[05-Nov-2021 08:14:07 Africa/Lagos] PHP Warning:  Invalid argument supplied for foreach() in /home/chidecom/public_html/account/monnify_payment.php on line 186
+[06-Nov-2021 12:10:32 Africa/Lagos] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/chidecom/public_html/account/PHPMailer/PHPMailerAutoload.php on line 45
+[06-Nov-2021 12:18:16 Africa/Lagos] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/chidecom/public_html/account/PHPMailer/PHPMailerAutoload.php on line 45
+[07-Nov-2021 23:58:49 Africa/Lagos] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/chidecom/public_html/account/PHPMailer/PHPMailerAutoload.php on line 45
+[09-Nov-2021 16:59:11 Africa/Lagos] PHP Notice:  Undefined index: status in /home/chidecom/public_html/account/verify_payment.php on line 12
+[09-Nov-2021 16:59:11 Africa/Lagos] PHP Notice:  Undefined index: transaction_id in /home/chidecom/public_html/account/verify_payment.php on line 13
+[09-Nov-2021 16:59:11 Africa/Lagos] PHP Notice:  Undefined index: tx_ref in /home/chidecom/public_html/account/verify_payment.php on line 14
+[09-Nov-2021 17:03:06 Africa/Lagos] PHP Notice:  Undefined index: status in /home/chidecom/public_html/account/verify_payment.php on line 12
+[09-Nov-2021 17:03:06 Africa/Lagos] PHP Notice:  Undefined index: transaction_id in /home/chidecom/public_html/account/verify_payment.php on line 13
+[09-Nov-2021 17:03:06 Africa/Lagos] PHP Notice:  Undefined index: tx_ref in /home/chidecom/public_html/account/verify_payment.php on line 14
+[12-Nov-2021 16:21:20 Africa/Lagos] PHP Notice:  Undefined index: usertype in /home/chidecom/public_html/account/NewUser.php on line 52
+[12-Nov-2021 16:21:20 Africa/Lagos] PHP Notice:  Undefined index: firstname in /home/chidecom/public_html/account/NewUser.php on line 53
+[12-Nov-2021 16:21:20 Africa/Lagos] PHP Notice:  Undefined index: lastname in /home/chidecom/public_html/account/NewUser.php on line 54
+[12-Nov-2021 16:21:20 Africa/Lagos] PHP Notice:  Undefined index: username in /home/chidecom/public_html/account/NewUser.php on line 55
+[12-Nov-2021 16:21:20 Africa/Lagos] PHP Notice:  Undefined index: mobile in /home/chidecom/public_html/account/NewUser.php on line 56
+[12-Nov-2021 16:21:20 Africa/Lagos] PHP Notice:  Undefined index: email in /home/chidecom/public_html/account/NewUser.php on line 57
+[12-Nov-2021 16:21:20 Africa/Lagos] PHP Notice:  Undefined index: refby in /home/chidecom/public_html/account/NewUser.php on line 58
+[12-Nov-2021 16:21:20 Africa/Lagos] PHP Notice:  Undefined index: password in /home/chidecom/public_html/account/NewUser.php on line 59
+[12-Nov-2021 16:21:20 Africa/Lagos] PHP Notice:  Undefined index: cpassword in /home/chidecom/public_html/account/NewUser.php on line 60
+[20-Nov-2021 11:24:31 Africa/Lagos] PHP Notice:  Undefined index: status in /home/chidecom/public_html/account/verify_payment.php on line 12
+[20-Nov-2021 11:24:31 Africa/Lagos] PHP Notice:  Undefined index: transaction_id in /home/chidecom/public_html/account/verify_payment.php on line 13
+[20-Nov-2021 11:24:31 Africa/Lagos] PHP Notice:  Undefined index: tx_ref in /home/chidecom/public_html/account/verify_payment.php on line 14
+[20-Nov-2021 18:42:30 Africa/Lagos] PHP Notice:  Undefined index: status in /home/chidecom/public_html/account/verify_payment.php on line 12
+[20-Nov-2021 18:42:30 Africa/Lagos] PHP Notice:  Undefined index: transaction_id in /home/chidecom/public_html/account/verify_payment.php on line 13
+[20-Nov-2021 18:42:30 Africa/Lagos] PHP Notice:  Undefined index: tx_ref in /home/chidecom/public_html/account/verify_payment.php on line 14
+[20-Nov-2021 19:09:02 Africa/Lagos] PHP Notice:  Undefined index: status in /home/chidecom/public_html/account/verify_payment.php on line 12
+[20-Nov-2021 19:09:02 Africa/Lagos] PHP Notice:  Undefined index: transaction_id in /home/chidecom/public_html/account/verify_payment.php on line 13
+[20-Nov-2021 19:09:02 Africa/Lagos] PHP Notice:  Undefined index: tx_ref in /home/chidecom/public_html/account/verify_payment.php on line 14
+[20-Nov-2021 19:09:22 Africa/Lagos] PHP Notice:  Undefined index: status in /home/chidecom/public_html/account/verify_payment.php on line 12
+[20-Nov-2021 19:09:22 Africa/Lagos] PHP Notice:  Undefined index: transaction_id in /home/chidecom/public_html/account/verify_payment.php on line 13
+[20-Nov-2021 19:09:22 Africa/Lagos] PHP Notice:  Undefined index: tx_ref in /home/chidecom/public_html/account/verify_payment.php on line 14
+[20-Nov-2021 19:09:56 Africa/Lagos] PHP Notice:  Undefined index: status in /home/chidecom/public_html/account/verify_payment.php on line 12
+[20-Nov-2021 19:09:56 Africa/Lagos] PHP Notice:  Undefined index: transaction_id in /home/chidecom/public_html/account/verify_payment.php on line 13
+[20-Nov-2021 19:10:17 Africa/Lagos] PHP Notice:  Undefined index: status in /home/chidecom/public_html/account/verify_payment.php on line 12
+[20-Nov-2021 19:10:17 Africa/Lagos] PHP Notice:  Undefined index: transaction_id in /home/chidecom/public_html/account/verify_payment.php on line 13
+[20-Nov-2021 19:10:17 Africa/Lagos] PHP Notice:  Undefined index: tx_ref in /home/chidecom/public_html/account/verify_payment.php on line 14
+[21-Nov-2021 13:09:55 Africa/Lagos] PHP Notice:  Undefined index: email in /home/chidecom/public_html/account/LoginUser.php on line 37
+[21-Nov-2021 13:09:55 Africa/Lagos] PHP Notice:  Undefined index: password in /home/chidecom/public_html/account/LoginUser.php on line 38
+[21-Nov-2021 13:19:46 Africa/Lagos] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/chidecom/public_html/account/PHPMailer/PHPMailerAutoload.php on line 45
+[22-Nov-2021 05:49:51 Africa/Lagos] PHP Notice:  Undefined index: status in /home/chidecom/public_html/account/verify_payment.php on line 12
+[22-Nov-2021 05:49:51 Africa/Lagos] PHP Notice:  Undefined index: transaction_id in /home/chidecom/public_html/account/verify_payment.php on line 13
+[22-Nov-2021 05:49:51 Africa/Lagos] PHP Notice:  Undefined index: tx_ref in /home/chidecom/public_html/account/verify_payment.php on line 14
+[23-Nov-2021 06:00:06 Africa/Lagos] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/chidecom/public_html/account/session.php on line 4
+[23-Nov-2021 06:00:06 Africa/Lagos] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/chidecom/public_html/account/session.php on line 7
+[23-Nov-2021 06:00:06 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/chidecom/public_html/private/functions.php:4) in /home/chidecom/public_html/account/session.php on line 8
+[23-Nov-2021 06:00:08 Africa/Lagos] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/chidecom/public_html/account/session.php on line 4
+[23-Nov-2021 06:00:08 Africa/Lagos] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/chidecom/public_html/account/session.php on line 7
+[23-Nov-2021 06:00:08 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/chidecom/public_html/private/functions.php:4) in /home/chidecom/public_html/account/session.php on line 8
+[23-Nov-2021 06:00:10 Africa/Lagos] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/chidecom/public_html/account/session.php on line 4
+[23-Nov-2021 06:00:10 Africa/Lagos] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/chidecom/public_html/account/session.php on line 7
+[23-Nov-2021 06:00:10 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/chidecom/public_html/private/functions.php:4) in /home/chidecom/public_html/account/session.php on line 8
+[23-Nov-2021 06:00:12 Africa/Lagos] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/chidecom/public_html/account/session.php on line 4
+[23-Nov-2021 06:00:12 Africa/Lagos] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/chidecom/public_html/account/session.php on line 7
+[23-Nov-2021 06:00:12 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/chidecom/public_html/private/functions.php:4) in /home/chidecom/public_html/account/session.php on line 8
+[23-Nov-2021 06:00:13 Africa/Lagos] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/chidecom/public_html/account/session.php on line 4
+[23-Nov-2021 06:00:13 Africa/Lagos] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/chidecom/public_html/account/session.php on line 7
+[23-Nov-2021 06:00:13 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/chidecom/public_html/private/functions.php:4) in /home/chidecom/public_html/account/session.php on line 8
+[23-Nov-2021 06:00:15 Africa/Lagos] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/chidecom/public_html/account/session.php on line 4
+[23-Nov-2021 06:00:15 Africa/Lagos] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/chidecom/public_html/account/session.php on line 7
+[23-Nov-2021 06:00:15 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/chidecom/public_html/private/functions.php:4) in /home/chidecom/public_html/account/session.php on line 8
+[23-Nov-2021 06:00:16 Africa/Lagos] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/chidecom/public_html/account/session.php on line 4
+[23-Nov-2021 06:00:16 Africa/Lagos] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/chidecom/public_html/account/session.php on line 7
+[23-Nov-2021 06:00:16 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/chidecom/public_html/private/functions.php:4) in /home/chidecom/public_html/account/session.php on line 8
+[23-Nov-2021 06:00:18 Africa/Lagos] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/chidecom/public_html/account/session.php on line 4
+[23-Nov-2021 06:00:18 Africa/Lagos] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/chidecom/public_html/account/session.php on line 7
+[23-Nov-2021 06:00:18 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/chidecom/public_html/private/functions.php:4) in /home/chidecom/public_html/account/session.php on line 8
+[23-Nov-2021 06:00:20 Africa/Lagos] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/chidecom/public_html/account/session.php on line 4
+[23-Nov-2021 06:00:20 Africa/Lagos] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/chidecom/public_html/account/session.php on line 7
+[23-Nov-2021 06:00:20 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/chidecom/public_html/private/functions.php:4) in /home/chidecom/public_html/account/session.php on line 8
+[23-Nov-2021 06:00:22 Africa/Lagos] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/chidecom/public_html/account/session.php on line 4
+[23-Nov-2021 06:00:22 Africa/Lagos] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/chidecom/public_html/account/session.php on line 7
+[23-Nov-2021 06:00:22 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/chidecom/public_html/private/functions.php:4) in /home/chidecom/public_html/account/session.php on line 8
+[23-Nov-2021 06:00:24 Africa/Lagos] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/chidecom/public_html/account/session.php on line 4
+[23-Nov-2021 06:00:24 Africa/Lagos] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/chidecom/public_html/account/session.php on line 7
+[23-Nov-2021 06:00:24 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/chidecom/public_html/private/functions.php:4) in /home/chidecom/public_html/account/session.php on line 8
+[23-Nov-2021 06:00:26 Africa/Lagos] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/chidecom/public_html/account/session.php on line 4
+[23-Nov-2021 06:00:26 Africa/Lagos] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/chidecom/public_html/account/session.php on line 7
+[23-Nov-2021 06:00:26 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/chidecom/public_html/private/functions.php:4) in /home/chidecom/public_html/account/session.php on line 8
+[23-Nov-2021 06:00:28 Africa/Lagos] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/chidecom/public_html/account/session.php on line 4
+[23-Nov-2021 06:00:28 Africa/Lagos] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/chidecom/public_html/account/session.php on line 7
+[23-Nov-2021 06:00:28 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/chidecom/public_html/private/functions.php:4) in /home/chidecom/public_html/account/session.php on line 8
+[23-Nov-2021 06:00:30 Africa/Lagos] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/chidecom/public_html/account/session.php on line 4
+[23-Nov-2021 06:00:30 Africa/Lagos] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/chidecom/public_html/account/session.php on line 7
+[23-Nov-2021 06:00:30 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/chidecom/public_html/private/functions.php:4) in /home/chidecom/public_html/account/session.php on line 8
+[23-Nov-2021 06:00:32 Africa/Lagos] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/chidecom/public_html/account/session.php on line 4
+[23-Nov-2021 06:00:32 Africa/Lagos] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/chidecom/public_html/account/session.php on line 7
+[23-Nov-2021 06:00:32 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/chidecom/public_html/private/functions.php:4) in /home/chidecom/public_html/account/session.php on line 8
+[23-Nov-2021 06:00:34 Africa/Lagos] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/chidecom/public_html/account/session.php on line 4
+[23-Nov-2021 06:00:34 Africa/Lagos] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/chidecom/public_html/account/session.php on line 7
+[23-Nov-2021 06:00:34 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/chidecom/public_html/private/functions.php:4) in /home/chidecom/public_html/account/session.php on line 8
+[23-Nov-2021 06:00:36 Africa/Lagos] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/chidecom/public_html/account/session.php on line 4
+[23-Nov-2021 06:00:36 Africa/Lagos] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/chidecom/public_html/account/session.php on line 7
+[23-Nov-2021 06:00:36 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/chidecom/public_html/private/functions.php:4) in /home/chidecom/public_html/account/session.php on line 8
+[23-Nov-2021 06:00:38 Africa/Lagos] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/chidecom/public_html/account/session.php on line 4
+[23-Nov-2021 06:00:38 Africa/Lagos] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/chidecom/public_html/account/session.php on line 7
+[23-Nov-2021 06:00:38 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/chidecom/public_html/private/functions.php:4) in /home/chidecom/public_html/account/session.php on line 8
+[23-Nov-2021 06:00:40 Africa/Lagos] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/chidecom/public_html/account/session.php on line 4
+[23-Nov-2021 06:00:40 Africa/Lagos] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/chidecom/public_html/account/session.php on line 7
+[23-Nov-2021 06:00:40 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/chidecom/public_html/private/functions.php:4) in /home/chidecom/public_html/account/session.php on line 8
+[23-Nov-2021 06:00:42 Africa/Lagos] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/chidecom/public_html/account/session.php on line 4
+[23-Nov-2021 06:00:42 Africa/Lagos] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/chidecom/public_html/account/session.php on line 7
+[23-Nov-2021 06:00:42 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/chidecom/public_html/private/functions.php:4) in /home/chidecom/public_html/account/session.php on line 8
+[23-Nov-2021 06:00:44 Africa/Lagos] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/chidecom/public_html/account/session.php on line 4
+[23-Nov-2021 06:00:44 Africa/Lagos] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/chidecom/public_html/account/session.php on line 7
+[23-Nov-2021 06:00:44 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/chidecom/public_html/private/functions.php:4) in /home/chidecom/public_html/account/session.php on line 8
+[23-Nov-2021 06:00:46 Africa/Lagos] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/chidecom/public_html/account/session.php on line 4
+[23-Nov-2021 06:00:46 Africa/Lagos] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/chidecom/public_html/account/session.php on line 7
+[23-Nov-2021 06:00:46 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/chidecom/public_html/private/functions.php:4) in /home/chidecom/public_html/account/session.php on line 8
+[23-Nov-2021 06:00:48 Africa/Lagos] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/chidecom/public_html/account/session.php on line 4
+[23-Nov-2021 06:00:48 Africa/Lagos] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/chidecom/public_html/account/session.php on line 7
+[23-Nov-2021 06:00:48 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/chidecom/public_html/private/functions.php:4) in /home/chidecom/public_html/account/session.php on line 8
+[23-Nov-2021 06:00:50 Africa/Lagos] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/chidecom/public_html/account/session.php on line 4
+[23-Nov-2021 06:00:50 Africa/Lagos] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/chidecom/public_html/account/session.php on line 7
+[23-Nov-2021 06:00:50 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/chidecom/public_html/private/functions.php:4) in /home/chidecom/public_html/account/session.php on line 8
+[23-Nov-2021 06:00:52 Africa/Lagos] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/chidecom/public_html/account/session.php on line 4
+[23-Nov-2021 06:00:52 Africa/Lagos] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/chidecom/public_html/account/session.php on line 7
+[23-Nov-2021 06:00:52 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/chidecom/public_html/private/functions.php:4) in /home/chidecom/public_html/account/session.php on line 8
+[23-Nov-2021 06:00:54 Africa/Lagos] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/chidecom/public_html/account/session.php on line 4
+[23-Nov-2021 06:00:54 Africa/Lagos] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/chidecom/public_html/account/session.php on line 7
+[23-Nov-2021 06:00:54 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/chidecom/public_html/private/functions.php:4) in /home/chidecom/public_html/account/session.php on line 8
+[23-Nov-2021 06:00:56 Africa/Lagos] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/chidecom/public_html/account/session.php on line 4
+[23-Nov-2021 06:00:56 Africa/Lagos] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/chidecom/public_html/account/session.php on line 7
+[23-Nov-2021 06:00:56 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/chidecom/public_html/private/functions.php:4) in /home/chidecom/public_html/account/session.php on line 8
+[23-Nov-2021 06:00:58 Africa/Lagos] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/chidecom/public_html/account/session.php on line 4
+[23-Nov-2021 06:00:58 Africa/Lagos] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/chidecom/public_html/account/session.php on line 7
+[23-Nov-2021 06:00:58 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/chidecom/public_html/private/functions.php:4) in /home/chidecom/public_html/account/session.php on line 8
+[23-Nov-2021 06:01:00 Africa/Lagos] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/chidecom/public_html/account/session.php on line 4
+[23-Nov-2021 06:01:00 Africa/Lagos] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/chidecom/public_html/account/session.php on line 7
+[23-Nov-2021 06:01:00 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/chidecom/public_html/private/functions.php:4) in /home/chidecom/public_html/account/session.php on line 8
+[23-Nov-2021 06:01:02 Africa/Lagos] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/chidecom/public_html/account/session.php on line 4
+[23-Nov-2021 06:01:02 Africa/Lagos] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/chidecom/public_html/account/session.php on line 7
+[23-Nov-2021 06:01:02 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/chidecom/public_html/private/functions.php:4) in /home/chidecom/public_html/account/session.php on line 8
+[23-Nov-2021 06:01:04 Africa/Lagos] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/chidecom/public_html/account/session.php on line 4
+[23-Nov-2021 06:01:04 Africa/Lagos] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/chidecom/public_html/account/session.php on line 7
+[23-Nov-2021 06:01:04 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/chidecom/public_html/private/functions.php:4) in /home/chidecom/public_html/account/session.php on line 8
+[23-Nov-2021 06:01:06 Africa/Lagos] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/chidecom/public_html/account/session.php on line 4
+[23-Nov-2021 06:01:06 Africa/Lagos] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/chidecom/public_html/account/session.php on line 7
+[23-Nov-2021 06:01:06 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/chidecom/public_html/private/functions.php:4) in /home/chidecom/public_html/account/session.php on line 8
+[23-Nov-2021 06:01:08 Africa/Lagos] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/chidecom/public_html/account/session.php on line 4
+[23-Nov-2021 06:01:08 Africa/Lagos] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/chidecom/public_html/account/session.php on line 7
+[23-Nov-2021 06:01:08 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/chidecom/public_html/private/functions.php:4) in /home/chidecom/public_html/account/session.php on line 8
+[23-Nov-2021 06:01:10 Africa/Lagos] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/chidecom/public_html/account/session.php on line 4
+[23-Nov-2021 06:01:10 Africa/Lagos] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/chidecom/public_html/account/session.php on line 7
+[23-Nov-2021 06:01:10 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/chidecom/public_html/private/functions.php:4) in /home/chidecom/public_html/account/session.php on line 8
+[23-Nov-2021 06:01:12 Africa/Lagos] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/chidecom/public_html/account/session.php on line 4
+[23-Nov-2021 06:01:12 Africa/Lagos] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/chidecom/public_html/account/session.php on line 7
+[23-Nov-2021 06:01:12 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/chidecom/public_html/private/functions.php:4) in /home/chidecom/public_html/account/session.php on line 8
+[23-Nov-2021 06:01:46 Africa/Lagos] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/chidecom/public_html/account/session.php on line 4
+[23-Nov-2021 06:01:46 Africa/Lagos] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/chidecom/public_html/account/session.php on line 7
+[23-Nov-2021 06:01:46 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/chidecom/public_html/private/functions.php:4) in /home/chidecom/public_html/account/session.php on line 8
+[28-Nov-2021 17:39:48 Africa/Lagos] PHP Notice:  Undefined index: status in /home/chidecom/public_html/account/verify_payment.php on line 12
+[28-Nov-2021 17:39:48 Africa/Lagos] PHP Notice:  Undefined index: transaction_id in /home/chidecom/public_html/account/verify_payment.php on line 13
+[28-Nov-2021 17:39:48 Africa/Lagos] PHP Notice:  Undefined index: tx_ref in /home/chidecom/public_html/account/verify_payment.php on line 14
+[29-Nov-2021 19:40:18 Africa/Lagos] PHP Notice:  Undefined index: email in /home/chidecom/public_html/account/LoginUser.php on line 37
+[29-Nov-2021 19:40:18 Africa/Lagos] PHP Notice:  Undefined index: password in /home/chidecom/public_html/account/LoginUser.php on line 38
+[02-Dec-2021 10:30:44 Africa/Lagos] PHP Notice:  Undefined index: email in /home/chidecom/public_html/account/LoginUser.php on line 37
+[02-Dec-2021 10:30:44 Africa/Lagos] PHP Notice:  Undefined index: password in /home/chidecom/public_html/account/LoginUser.php on line 38
+[07-Dec-2021 10:20:58 Africa/Lagos] PHP Notice:  Undefined index: email in /home/chidecom/public_html/account/LoginUser.php on line 37
+[07-Dec-2021 10:20:58 Africa/Lagos] PHP Notice:  Undefined index: password in /home/chidecom/public_html/account/LoginUser.php on line 38
+[08-Dec-2021 17:09:00 Africa/Lagos] PHP Notice:  Undefined index: email in /home/chidecom/public_html/account/LoginUser.php on line 37
+[08-Dec-2021 17:09:00 Africa/Lagos] PHP Notice:  Undefined index: password in /home/chidecom/public_html/account/LoginUser.php on line 38
+[10-Dec-2021 14:14:43 Africa/Lagos] PHP Notice:  Undefined variable: imageMode in /home/chidecom/public_html/account/History.php on line 55
+[10-Dec-2021 14:14:55 Africa/Lagos] PHP Notice:  Undefined variable: imageMode in /home/chidecom/public_html/account/History.php on line 55
+[10-Dec-2021 14:14:59 Africa/Lagos] PHP Notice:  Undefined variable: imageMode in /home/chidecom/public_html/account/History.php on line 55
+[10-Dec-2021 14:15:04 Africa/Lagos] PHP Notice:  Undefined variable: imageMode in /home/chidecom/public_html/account/History.php on line 55
+[14-Dec-2021 16:23:24 Africa/Lagos] PHP Notice:  Undefined index: email in /home/chidecom/public_html/account/LoginUser.php on line 37
+[14-Dec-2021 16:23:24 Africa/Lagos] PHP Notice:  Undefined index: password in /home/chidecom/public_html/account/LoginUser.php on line 38
+[14-Dec-2021 18:52:49 Africa/Lagos] PHP Notice:  Undefined index: email in /home/chidecom/public_html/account/LoginUser.php on line 37
+[14-Dec-2021 18:52:49 Africa/Lagos] PHP Notice:  Undefined index: password in /home/chidecom/public_html/account/LoginUser.php on line 38
+[19-Dec-2021 05:17:31 Africa/Lagos] PHP Notice:  Undefined index: status in /home/chidecom/public_html/account/verify_payment.php on line 12
+[19-Dec-2021 05:17:31 Africa/Lagos] PHP Notice:  Undefined index: transaction_id in /home/chidecom/public_html/account/verify_payment.php on line 13
+[19-Dec-2021 05:17:31 Africa/Lagos] PHP Notice:  Undefined index: tx_ref in /home/chidecom/public_html/account/verify_payment.php on line 14
+[20-Dec-2021 16:09:06 Africa/Lagos] PHP Notice:  Undefined index: status in /home/chidecom/public_html/account/verify_payment.php on line 12
+[20-Dec-2021 16:09:06 Africa/Lagos] PHP Notice:  Undefined index: transaction_id in /home/chidecom/public_html/account/verify_payment.php on line 13
+[20-Dec-2021 16:09:06 Africa/Lagos] PHP Notice:  Undefined index: tx_ref in /home/chidecom/public_html/account/verify_payment.php on line 14
+[27-Dec-2021 15:12:52 Africa/Lagos] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/chidecom/public_html/account/PHPMailer/PHPMailerAutoload.php on line 45
+[27-Dec-2021 15:26:12 Africa/Lagos] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/chidecom/public_html/account/PHPMailer/PHPMailerAutoload.php on line 45
+[27-Dec-2021 15:32:28 Africa/Lagos] PHP Notice:  Trying to get property 'responseBody' of non-object in /home/chidecom/public_html/account/monnify_payment.php on line 183
+[27-Dec-2021 15:32:28 Africa/Lagos] PHP Notice:  Trying to get property 'accountReference' of non-object in /home/chidecom/public_html/account/monnify_payment.php on line 183
+[27-Dec-2021 15:32:28 Africa/Lagos] PHP Notice:  Trying to get property 'responseBody' of non-object in /home/chidecom/public_html/account/monnify_payment.php on line 184
+[27-Dec-2021 15:32:28 Africa/Lagos] PHP Notice:  Trying to get property 'reservationReference' of non-object in /home/chidecom/public_html/account/monnify_payment.php on line 184
+[27-Dec-2021 15:32:28 Africa/Lagos] PHP Notice:  Trying to get property 'responseBody' of non-object in /home/chidecom/public_html/account/monnify_payment.php on line 187
+[27-Dec-2021 15:32:28 Africa/Lagos] PHP Notice:  Trying to get property 'accounts' of non-object in /home/chidecom/public_html/account/monnify_payment.php on line 187
+[27-Dec-2021 15:32:28 Africa/Lagos] PHP Warning:  Invalid argument supplied for foreach() in /home/chidecom/public_html/account/monnify_payment.php on line 187
+[27-Dec-2021 15:48:44 Africa/Lagos] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/chidecom/public_html/account/PHPMailer/PHPMailerAutoload.php on line 45
+[27-Dec-2021 15:52:16 Africa/Lagos] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/chidecom/public_html/account/PHPMailer/PHPMailerAutoload.php on line 45
+[27-Dec-2021 16:26:59 Africa/Lagos] PHP Notice:  Trying to get property 'responseBody' of non-object in /home/chidecom/public_html/account/monnify_payment.php on line 183
+[27-Dec-2021 16:26:59 Africa/Lagos] PHP Notice:  Trying to get property 'accountReference' of non-object in /home/chidecom/public_html/account/monnify_payment.php on line 183
+[27-Dec-2021 16:26:59 Africa/Lagos] PHP Notice:  Trying to get property 'responseBody' of non-object in /home/chidecom/public_html/account/monnify_payment.php on line 184
+[27-Dec-2021 16:26:59 Africa/Lagos] PHP Notice:  Trying to get property 'reservationReference' of non-object in /home/chidecom/public_html/account/monnify_payment.php on line 184
+[27-Dec-2021 16:26:59 Africa/Lagos] PHP Notice:  Trying to get property 'responseBody' of non-object in /home/chidecom/public_html/account/monnify_payment.php on line 187
+[27-Dec-2021 16:26:59 Africa/Lagos] PHP Notice:  Trying to get property 'accounts' of non-object in /home/chidecom/public_html/account/monnify_payment.php on line 187
+[27-Dec-2021 16:26:59 Africa/Lagos] PHP Warning:  Invalid argument supplied for foreach() in /home/chidecom/public_html/account/monnify_payment.php on line 187
+[27-Dec-2021 16:30:26 Africa/Lagos] PHP Notice:  Trying to get property 'responseBody' of non-object in /home/chidecom/public_html/account/monnify_payment.php on line 183
+[27-Dec-2021 16:30:26 Africa/Lagos] PHP Notice:  Trying to get property 'accountReference' of non-object in /home/chidecom/public_html/account/monnify_payment.php on line 183
+[27-Dec-2021 16:30:26 Africa/Lagos] PHP Notice:  Trying to get property 'responseBody' of non-object in /home/chidecom/public_html/account/monnify_payment.php on line 184
+[27-Dec-2021 16:30:26 Africa/Lagos] PHP Notice:  Trying to get property 'reservationReference' of non-object in /home/chidecom/public_html/account/monnify_payment.php on line 184
+[27-Dec-2021 16:30:26 Africa/Lagos] PHP Notice:  Trying to get property 'responseBody' of non-object in /home/chidecom/public_html/account/monnify_payment.php on line 187
+[27-Dec-2021 16:30:26 Africa/Lagos] PHP Notice:  Trying to get property 'accounts' of non-object in /home/chidecom/public_html/account/monnify_payment.php on line 187
+[27-Dec-2021 16:30:26 Africa/Lagos] PHP Warning:  Invalid argument supplied for foreach() in /home/chidecom/public_html/account/monnify_payment.php on line 187
+[27-Dec-2021 16:32:58 Africa/Lagos] PHP Notice:  Trying to get property 'responseBody' of non-object in /home/chidecom/public_html/account/monnify_payment.php on line 183
+[27-Dec-2021 16:32:58 Africa/Lagos] PHP Notice:  Trying to get property 'accountReference' of non-object in /home/chidecom/public_html/account/monnify_payment.php on line 183
+[27-Dec-2021 16:32:58 Africa/Lagos] PHP Notice:  Trying to get property 'responseBody' of non-object in /home/chidecom/public_html/account/monnify_payment.php on line 184
+[27-Dec-2021 16:32:58 Africa/Lagos] PHP Notice:  Trying to get property 'reservationReference' of non-object in /home/chidecom/public_html/account/monnify_payment.php on line 184
+[27-Dec-2021 16:32:58 Africa/Lagos] PHP Notice:  Trying to get property 'responseBody' of non-object in /home/chidecom/public_html/account/monnify_payment.php on line 187
+[27-Dec-2021 16:32:58 Africa/Lagos] PHP Notice:  Trying to get property 'accounts' of non-object in /home/chidecom/public_html/account/monnify_payment.php on line 187
+[27-Dec-2021 16:32:58 Africa/Lagos] PHP Warning:  Invalid argument supplied for foreach() in /home/chidecom/public_html/account/monnify_payment.php on line 187
+[27-Dec-2021 16:33:03 Africa/Lagos] PHP Notice:  Trying to get property 'responseBody' of non-object in /home/chidecom/public_html/account/monnify_payment.php on line 183
+[27-Dec-2021 16:33:03 Africa/Lagos] PHP Notice:  Trying to get property 'accountReference' of non-object in /home/chidecom/public_html/account/monnify_payment.php on line 183
+[27-Dec-2021 16:33:03 Africa/Lagos] PHP Notice:  Trying to get property 'responseBody' of non-object in /home/chidecom/public_html/account/monnify_payment.php on line 184
+[27-Dec-2021 16:33:03 Africa/Lagos] PHP Notice:  Trying to get property 'reservationReference' of non-object in /home/chidecom/public_html/account/monnify_payment.php on line 184
+[27-Dec-2021 16:33:03 Africa/Lagos] PHP Notice:  Trying to get property 'responseBody' of non-object in /home/chidecom/public_html/account/monnify_payment.php on line 187
+[27-Dec-2021 16:33:03 Africa/Lagos] PHP Notice:  Trying to get property 'accounts' of non-object in /home/chidecom/public_html/account/monnify_payment.php on line 187
+[27-Dec-2021 16:33:03 Africa/Lagos] PHP Warning:  Invalid argument supplied for foreach() in /home/chidecom/public_html/account/monnify_payment.php on line 187
+[27-Dec-2021 16:35:35 Africa/Lagos] PHP Notice:  Trying to get property 'responseBody' of non-object in /home/chidecom/public_html/account/monnify_payment.php on line 183
+[27-Dec-2021 16:35:35 Africa/Lagos] PHP Notice:  Trying to get property 'accountReference' of non-object in /home/chidecom/public_html/account/monnify_payment.php on line 183
+[27-Dec-2021 16:35:35 Africa/Lagos] PHP Notice:  Trying to get property 'responseBody' of non-object in /home/chidecom/public_html/account/monnify_payment.php on line 184
+[27-Dec-2021 16:35:35 Africa/Lagos] PHP Notice:  Trying to get property 'reservationReference' of non-object in /home/chidecom/public_html/account/monnify_payment.php on line 184
+[27-Dec-2021 16:35:35 Africa/Lagos] PHP Notice:  Trying to get property 'responseBody' of non-object in /home/chidecom/public_html/account/monnify_payment.php on line 187
+[27-Dec-2021 16:35:35 Africa/Lagos] PHP Notice:  Trying to get property 'accounts' of non-object in /home/chidecom/public_html/account/monnify_payment.php on line 187
+[27-Dec-2021 16:35:35 Africa/Lagos] PHP Warning:  Invalid argument supplied for foreach() in /home/chidecom/public_html/account/monnify_payment.php on line 187
+[27-Dec-2021 16:35:41 Africa/Lagos] PHP Notice:  Trying to get property 'responseBody' of non-object in /home/chidecom/public_html/account/monnify_payment.php on line 183
+[27-Dec-2021 16:35:41 Africa/Lagos] PHP Notice:  Trying to get property 'accountReference' of non-object in /home/chidecom/public_html/account/monnify_payment.php on line 183
+[27-Dec-2021 16:35:41 Africa/Lagos] PHP Notice:  Trying to get property 'responseBody' of non-object in /home/chidecom/public_html/account/monnify_payment.php on line 184
+[27-Dec-2021 16:35:41 Africa/Lagos] PHP Notice:  Trying to get property 'reservationReference' of non-object in /home/chidecom/public_html/account/monnify_payment.php on line 184
+[27-Dec-2021 16:35:41 Africa/Lagos] PHP Notice:  Trying to get property 'responseBody' of non-object in /home/chidecom/public_html/account/monnify_payment.php on line 187
+[27-Dec-2021 16:35:41 Africa/Lagos] PHP Notice:  Trying to get property 'accounts' of non-object in /home/chidecom/public_html/account/monnify_payment.php on line 187
+[27-Dec-2021 16:35:41 Africa/Lagos] PHP Warning:  Invalid argument supplied for foreach() in /home/chidecom/public_html/account/monnify_payment.php on line 187
+[27-Dec-2021 16:38:13 Africa/Lagos] PHP Notice:  Trying to get property 'responseBody' of non-object in /home/chidecom/public_html/account/monnify_payment.php on line 183
+[27-Dec-2021 16:38:13 Africa/Lagos] PHP Notice:  Trying to get property 'accountReference' of non-object in /home/chidecom/public_html/account/monnify_payment.php on line 183
+[27-Dec-2021 16:38:13 Africa/Lagos] PHP Notice:  Trying to get property 'responseBody' of non-object in /home/chidecom/public_html/account/monnify_payment.php on line 184
+[27-Dec-2021 16:38:13 Africa/Lagos] PHP Notice:  Trying to get property 'reservationReference' of non-object in /home/chidecom/public_html/account/monnify_payment.php on line 184
+[27-Dec-2021 16:38:13 Africa/Lagos] PHP Notice:  Trying to get property 'responseBody' of non-object in /home/chidecom/public_html/account/monnify_payment.php on line 187
+[27-Dec-2021 16:38:13 Africa/Lagos] PHP Notice:  Trying to get property 'accounts' of non-object in /home/chidecom/public_html/account/monnify_payment.php on line 187
+[27-Dec-2021 16:38:13 Africa/Lagos] PHP Warning:  Invalid argument supplied for foreach() in /home/chidecom/public_html/account/monnify_payment.php on line 187
+[27-Dec-2021 16:39:17 Africa/Lagos] PHP Notice:  Trying to get property 'responseBody' of non-object in /home/chidecom/public_html/account/monnify_payment.php on line 183
+[27-Dec-2021 16:39:17 Africa/Lagos] PHP Notice:  Trying to get property 'accountReference' of non-object in /home/chidecom/public_html/account/monnify_payment.php on line 183
+[27-Dec-2021 16:39:17 Africa/Lagos] PHP Notice:  Trying to get property 'responseBody' of non-object in /home/chidecom/public_html/account/monnify_payment.php on line 184
+[27-Dec-2021 16:39:17 Africa/Lagos] PHP Notice:  Trying to get property 'reservationReference' of non-object in /home/chidecom/public_html/account/monnify_payment.php on line 184
+[27-Dec-2021 16:39:17 Africa/Lagos] PHP Notice:  Trying to get property 'responseBody' of non-object in /home/chidecom/public_html/account/monnify_payment.php on line 187
+[27-Dec-2021 16:39:17 Africa/Lagos] PHP Notice:  Trying to get property 'accounts' of non-object in /home/chidecom/public_html/account/monnify_payment.php on line 187
+[27-Dec-2021 16:39:17 Africa/Lagos] PHP Warning:  Invalid argument supplied for foreach() in /home/chidecom/public_html/account/monnify_payment.php on line 187
+[27-Dec-2021 16:44:31 Africa/Lagos] PHP Notice:  Trying to get property 'responseBody' of non-object in /home/chidecom/public_html/account/monnify_payment.php on line 183
+[27-Dec-2021 16:44:31 Africa/Lagos] PHP Notice:  Trying to get property 'accountReference' of non-object in /home/chidecom/public_html/account/monnify_payment.php on line 183
+[27-Dec-2021 16:44:31 Africa/Lagos] PHP Notice:  Trying to get property 'responseBody' of non-object in /home/chidecom/public_html/account/monnify_payment.php on line 184
+[27-Dec-2021 16:44:31 Africa/Lagos] PHP Notice:  Trying to get property 'reservationReference' of non-object in /home/chidecom/public_html/account/monnify_payment.php on line 184
+[27-Dec-2021 16:44:31 Africa/Lagos] PHP Notice:  Trying to get property 'responseBody' of non-object in /home/chidecom/public_html/account/monnify_payment.php on line 187
+[27-Dec-2021 16:44:31 Africa/Lagos] PHP Notice:  Trying to get property 'accounts' of non-object in /home/chidecom/public_html/account/monnify_payment.php on line 187
+[27-Dec-2021 16:44:31 Africa/Lagos] PHP Warning:  Invalid argument supplied for foreach() in /home/chidecom/public_html/account/monnify_payment.php on line 187
+[27-Dec-2021 16:45:49 Africa/Lagos] PHP Notice:  Trying to get property 'responseBody' of non-object in /home/chidecom/public_html/account/monnify_payment.php on line 183
+[27-Dec-2021 16:45:49 Africa/Lagos] PHP Notice:  Trying to get property 'accountReference' of non-object in /home/chidecom/public_html/account/monnify_payment.php on line 183
+[27-Dec-2021 16:45:49 Africa/Lagos] PHP Notice:  Trying to get property 'responseBody' of non-object in /home/chidecom/public_html/account/monnify_payment.php on line 184
+[27-Dec-2021 16:45:49 Africa/Lagos] PHP Notice:  Trying to get property 'reservationReference' of non-object in /home/chidecom/public_html/account/monnify_payment.php on line 184
+[27-Dec-2021 16:45:49 Africa/Lagos] PHP Notice:  Trying to get property 'responseBody' of non-object in /home/chidecom/public_html/account/monnify_payment.php on line 187
+[27-Dec-2021 16:45:49 Africa/Lagos] PHP Notice:  Trying to get property 'accounts' of non-object in /home/chidecom/public_html/account/monnify_payment.php on line 187
+[27-Dec-2021 16:45:49 Africa/Lagos] PHP Warning:  Invalid argument supplied for foreach() in /home/chidecom/public_html/account/monnify_payment.php on line 187
+[27-Dec-2021 16:48:27 Africa/Lagos] PHP Notice:  Trying to get property 'responseBody' of non-object in /home/chidecom/public_html/account/monnify_payment.php on line 183
+[27-Dec-2021 16:48:27 Africa/Lagos] PHP Notice:  Trying to get property 'accountReference' of non-object in /home/chidecom/public_html/account/monnify_payment.php on line 183
+[27-Dec-2021 16:48:27 Africa/Lagos] PHP Notice:  Trying to get property 'responseBody' of non-object in /home/chidecom/public_html/account/monnify_payment.php on line 184
+[27-Dec-2021 16:48:27 Africa/Lagos] PHP Notice:  Trying to get property 'reservationReference' of non-object in /home/chidecom/public_html/account/monnify_payment.php on line 184
+[27-Dec-2021 16:48:27 Africa/Lagos] PHP Notice:  Trying to get property 'responseBody' of non-object in /home/chidecom/public_html/account/monnify_payment.php on line 187
+[27-Dec-2021 16:48:27 Africa/Lagos] PHP Notice:  Trying to get property 'accounts' of non-object in /home/chidecom/public_html/account/monnify_payment.php on line 187
+[27-Dec-2021 16:48:27 Africa/Lagos] PHP Warning:  Invalid argument supplied for foreach() in /home/chidecom/public_html/account/monnify_payment.php on line 187
+[27-Dec-2021 16:51:22 Africa/Lagos] PHP Notice:  Trying to get property 'responseBody' of non-object in /home/chidecom/public_html/account/monnify_payment.php on line 183
+[27-Dec-2021 16:51:22 Africa/Lagos] PHP Notice:  Trying to get property 'accountReference' of non-object in /home/chidecom/public_html/account/monnify_payment.php on line 183
+[27-Dec-2021 16:51:22 Africa/Lagos] PHP Notice:  Trying to get property 'responseBody' of non-object in /home/chidecom/public_html/account/monnify_payment.php on line 184
+[27-Dec-2021 16:51:22 Africa/Lagos] PHP Notice:  Trying to get property 'reservationReference' of non-object in /home/chidecom/public_html/account/monnify_payment.php on line 184
+[27-Dec-2021 16:51:22 Africa/Lagos] PHP Notice:  Trying to get property 'responseBody' of non-object in /home/chidecom/public_html/account/monnify_payment.php on line 187
+[27-Dec-2021 16:51:22 Africa/Lagos] PHP Notice:  Trying to get property 'accounts' of non-object in /home/chidecom/public_html/account/monnify_payment.php on line 187
+[27-Dec-2021 16:51:22 Africa/Lagos] PHP Warning:  Invalid argument supplied for foreach() in /home/chidecom/public_html/account/monnify_payment.php on line 187
+[27-Dec-2021 17:03:18 Africa/Lagos] PHP Notice:  Trying to get property 'responseBody' of non-object in /home/chidecom/public_html/account/monnify_payment.php on line 183
+[27-Dec-2021 17:03:18 Africa/Lagos] PHP Notice:  Trying to get property 'accountReference' of non-object in /home/chidecom/public_html/account/monnify_payment.php on line 183
+[27-Dec-2021 17:03:18 Africa/Lagos] PHP Notice:  Trying to get property 'responseBody' of non-object in /home/chidecom/public_html/account/monnify_payment.php on line 184
+[27-Dec-2021 17:03:18 Africa/Lagos] PHP Notice:  Trying to get property 'reservationReference' of non-object in /home/chidecom/public_html/account/monnify_payment.php on line 184
+[27-Dec-2021 17:03:18 Africa/Lagos] PHP Notice:  Trying to get property 'responseBody' of non-object in /home/chidecom/public_html/account/monnify_payment.php on line 187
+[27-Dec-2021 17:03:18 Africa/Lagos] PHP Notice:  Trying to get property 'accounts' of non-object in /home/chidecom/public_html/account/monnify_payment.php on line 187
+[27-Dec-2021 17:03:18 Africa/Lagos] PHP Warning:  Invalid argument supplied for foreach() in /home/chidecom/public_html/account/monnify_payment.php on line 187
+[27-Dec-2021 17:05:55 Africa/Lagos] PHP Notice:  Trying to get property 'responseBody' of non-object in /home/chidecom/public_html/account/monnify_payment.php on line 183
+[27-Dec-2021 17:05:55 Africa/Lagos] PHP Notice:  Trying to get property 'accountReference' of non-object in /home/chidecom/public_html/account/monnify_payment.php on line 183
+[27-Dec-2021 17:05:55 Africa/Lagos] PHP Notice:  Trying to get property 'responseBody' of non-object in /home/chidecom/public_html/account/monnify_payment.php on line 184
+[27-Dec-2021 17:05:55 Africa/Lagos] PHP Notice:  Trying to get property 'reservationReference' of non-object in /home/chidecom/public_html/account/monnify_payment.php on line 184
+[27-Dec-2021 17:05:55 Africa/Lagos] PHP Notice:  Trying to get property 'responseBody' of non-object in /home/chidecom/public_html/account/monnify_payment.php on line 187
+[27-Dec-2021 17:05:55 Africa/Lagos] PHP Notice:  Trying to get property 'accounts' of non-object in /home/chidecom/public_html/account/monnify_payment.php on line 187
+[27-Dec-2021 17:05:55 Africa/Lagos] PHP Warning:  Invalid argument supplied for foreach() in /home/chidecom/public_html/account/monnify_payment.php on line 187
+[27-Dec-2021 17:08:33 Africa/Lagos] PHP Notice:  Trying to get property 'responseBody' of non-object in /home/chidecom/public_html/account/monnify_payment.php on line 183
+[27-Dec-2021 17:08:33 Africa/Lagos] PHP Notice:  Trying to get property 'accountReference' of non-object in /home/chidecom/public_html/account/monnify_payment.php on line 183
+[27-Dec-2021 17:08:33 Africa/Lagos] PHP Notice:  Trying to get property 'responseBody' of non-object in /home/chidecom/public_html/account/monnify_payment.php on line 184
+[27-Dec-2021 17:08:33 Africa/Lagos] PHP Notice:  Trying to get property 'reservationReference' of non-object in /home/chidecom/public_html/account/monnify_payment.php on line 184
+[27-Dec-2021 17:08:33 Africa/Lagos] PHP Notice:  Trying to get property 'responseBody' of non-object in /home/chidecom/public_html/account/monnify_payment.php on line 187
+[27-Dec-2021 17:08:33 Africa/Lagos] PHP Notice:  Trying to get property 'accounts' of non-object in /home/chidecom/public_html/account/monnify_payment.php on line 187
+[27-Dec-2021 17:08:33 Africa/Lagos] PHP Warning:  Invalid argument supplied for foreach() in /home/chidecom/public_html/account/monnify_payment.php on line 187
+[27-Dec-2021 17:29:32 Africa/Lagos] PHP Notice:  Trying to get property 'responseBody' of non-object in /home/chidecom/public_html/account/monnify_payment.php on line 183
+[27-Dec-2021 17:29:32 Africa/Lagos] PHP Notice:  Trying to get property 'accountReference' of non-object in /home/chidecom/public_html/account/monnify_payment.php on line 183
+[27-Dec-2021 17:29:32 Africa/Lagos] PHP Notice:  Trying to get property 'responseBody' of non-object in /home/chidecom/public_html/account/monnify_payment.php on line 184
+[27-Dec-2021 17:29:32 Africa/Lagos] PHP Notice:  Trying to get property 'reservationReference' of non-object in /home/chidecom/public_html/account/monnify_payment.php on line 184
+[27-Dec-2021 17:29:32 Africa/Lagos] PHP Notice:  Trying to get property 'responseBody' of non-object in /home/chidecom/public_html/account/monnify_payment.php on line 187
+[27-Dec-2021 17:29:32 Africa/Lagos] PHP Notice:  Trying to get property 'accounts' of non-object in /home/chidecom/public_html/account/monnify_payment.php on line 187
+[27-Dec-2021 17:29:32 Africa/Lagos] PHP Warning:  Invalid argument supplied for foreach() in /home/chidecom/public_html/account/monnify_payment.php on line 187
+[27-Dec-2021 17:30:25 Africa/Lagos] PHP Notice:  Trying to get property 'responseBody' of non-object in /home/chidecom/public_html/account/monnify_payment.php on line 183
+[27-Dec-2021 17:30:25 Africa/Lagos] PHP Notice:  Trying to get property 'accountReference' of non-object in /home/chidecom/public_html/account/monnify_payment.php on line 183
+[27-Dec-2021 17:30:25 Africa/Lagos] PHP Notice:  Trying to get property 'responseBody' of non-object in /home/chidecom/public_html/account/monnify_payment.php on line 184
+[27-Dec-2021 17:30:25 Africa/Lagos] PHP Notice:  Trying to get property 'reservationReference' of non-object in /home/chidecom/public_html/account/monnify_payment.php on line 184
+[27-Dec-2021 17:30:25 Africa/Lagos] PHP Notice:  Trying to get property 'responseBody' of non-object in /home/chidecom/public_html/account/monnify_payment.php on line 187
+[27-Dec-2021 17:30:25 Africa/Lagos] PHP Notice:  Trying to get property 'accounts' of non-object in /home/chidecom/public_html/account/monnify_payment.php on line 187
+[27-Dec-2021 17:30:25 Africa/Lagos] PHP Warning:  Invalid argument supplied for foreach() in /home/chidecom/public_html/account/monnify_payment.php on line 187
+[29-Dec-2021 23:15:09 Africa/Lagos] PHP Notice:  Undefined index: email in /home/chidecom/public_html/account/LoginUser.php on line 37
+[29-Dec-2021 23:15:10 Africa/Lagos] PHP Notice:  Undefined index: password in /home/chidecom/public_html/account/LoginUser.php on line 38
+[31-Dec-2021 09:29:13 Africa/Lagos] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/chidecom/public_html/account/PHPMailer/PHPMailerAutoload.php on line 45
+[31-Dec-2021 09:30:46 Africa/Lagos] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/chidecom/public_html/account/PHPMailer/PHPMailerAutoload.php on line 45
+[31-Dec-2021 09:32:50 Africa/Lagos] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/chidecom/public_html/account/PHPMailer/PHPMailerAutoload.php on line 45
+[01-Jan-2022 18:34:42 Africa/Lagos] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/chidecom/public_html/account/PHPMailer/PHPMailerAutoload.php on line 45
+[06-Jan-2022 12:20:28 Africa/Lagos] PHP Notice:  Undefined index: email in /home/chidecom/public_html/account/LoginUser.php on line 37
+[06-Jan-2022 12:20:28 Africa/Lagos] PHP Notice:  Undefined index: password in /home/chidecom/public_html/account/LoginUser.php on line 38
